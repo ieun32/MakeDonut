@@ -1,8 +1,8 @@
-# -
-오픈소스 회원가입 서비스 만든 결과를 올립니다.
+# 오픈소스 회원가입 서비스
 
 [23/03/30]
 1. 로그인을 성공시키기 위해서 mydb에 INSERT SQL문을 사용해서 회원 정보를 등록했습니다.
+
 ![image](https://user-images.githubusercontent.com/116702472/228752210-c9cc6b38-9b4e-4eae-9b9b-59ec61153cc1.png)
 
 2. 로그인을 성공했습니다.
