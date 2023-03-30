@@ -11,4 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/116702472/228752299-d583b800-921b-43ea-8b0b-fc1b23eb6cfd.png)
 
-* 한글로 하면 로그인이 안돼서 해결하려고 DB설정을 UTF-8로 바꿔보고 했지만 아직 해결하지 못했습니다.
+3. 한글로 로그인이 안되는 오류가 발생했지만 form 태그 안에 charset 설정을 주어 해결했습니다. 
+
+![image](https://user-images.githubusercontent.com/116702472/228755330-c969b7fe-a642-4174-a95b-66680d3d0af3.png)
+
