@@ -1,3 +1,4 @@
+<!-- 차트 정보 입력 페이지 -->
 <!DOCTYPE html>
 <html>
 <head>
