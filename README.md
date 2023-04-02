@@ -26,14 +26,14 @@
 
 ![image](https://user-images.githubusercontent.com/116702472/229334775-7cb090a4-35d1-4d70-a446-9a7b2eeec63f.png)
 
+![image](https://user-images.githubusercontent.com/116702472/229337146-973283ff-4f65-4b18-8f4a-bee7a104d7c1.png)
+
+
 //회원가입을 성공하면 바로 로그인 폼으로 이동합니다.
 
-5. 차트 정보를 입력받는 폼을 구현하였습니다.
+5. 차트 정보를 입력받고 실시간으로 보여주는 폼을 완성했습니다. +로그아웃 기능
 
-![image](https://user-images.githubusercontent.com/116702472/229334832-a94383bd-961d-43fc-98e3-3a8aa1873ddf.png)
+![image](https://user-images.githubusercontent.com/116702472/229337121-7d1d1e32-9911-4ea6-98fd-39fc0d9b0c01.png)
 
+![image](https://user-images.githubusercontent.com/116702472/229337117-d9df5ac1-f49f-4a0a-b02c-c1d91a1c1810.png)
 
-
-6. 차트 정보를 조회하는 폼을 구현하였습니다. + 차트 정보 만드는 폼으로 돌아가기, 로그아웃하기 등 네비게이션 기능을 구현했습니다.
-
-![image](https://user-images.githubusercontent.com/116702472/229334787-889d8d7b-e82d-4ebc-8d56-b10efe34d968.png)
